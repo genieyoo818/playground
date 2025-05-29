@@ -1,9 +1,5 @@
-<param ve-map
-       center="-2.4833826, 117.8902853"
-	zoom="5"
-	title="Indonesia"
-	prefer-geojson>
-<param ve-map-layer geojson
-  url="https://github.com/genieyoo818/playground/blob/main/test/map.json"
-	show-labels
-	stroke-width="0">
+<param ve-compare
+src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg"
+caption="Swipe across images to view the conditions of the European Larch in winter and in summer.">
+<param ve-compare
+src="wc:Larix_sibirica_with_golden_foliage.jpg">
