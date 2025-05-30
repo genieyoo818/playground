@@ -10,12 +10,27 @@
 
 ### Introduction
 
-I *want* to **write** about the [potato](Q16587531), so I depend on the [wikipedia entry on potatoes](https://en.wikipedia.org/wiki/Potato).[^1] Wikipedia begins with the following statement:
->The potato is a starchy tuberous vegetable.[^2]
+I *want* to **write** about the [potato](Q16587531), so I depend on the [wikipedia entry on potatoes](https://en.wikipedia.org/wiki/Potato). Wikipedia begins with the following statement.
+<param ve-image
+	   src="wc:Solanum_tuberosum_Red_Scarlett20170523_7825.jpg"
+	   caption="This is an image of many potatoes. Wikimedia Commons.">
 
+Here is the second paragraph
+<param ve-image
+	   src="wc:Potato_flowers_2016_G1.jpg"
+	   caption="This is an image of potato flowers. Wikimedia Commons.">
 
+Here is the third paragraph
+<param ve-image
+	   src="gh:genieyoo818/playground/main/potato/LarchesWinter.jpeg">
 
+This is the fourth paragraph and I want to display a primary source from archive.org.
+<param ve-iframe
+	   src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk&font=Default&lang=en&initial_zoom=2&height=100%"
+	   caption="This is the timeline.">
 
+This is to display the video.
+<param ve-video
+	   src="7FMB4FaiWTE"
+	   start="30">
 
-[^1]: Wikipedia Article on potato.
-[^2]: Wikipedia Article on potato.
