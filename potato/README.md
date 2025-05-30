@@ -10,4 +10,4 @@
 
 ### Introduction
 
-I want to write about the [potato](https://en.wikipedia.org/wiki/Potato). 
+I want to write about the [potato](Q16587531). 
