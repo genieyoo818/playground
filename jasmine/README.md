@@ -7,3 +7,9 @@
        height=100
        author="Tori and Adrianna"
        layout="vertical">
+
+###Introduction
+Jasmine is a beautiful plant used in many different cultures around the world. 
+<param ve-image
+       src="wc:Bloem_van_een_Boerenjasmijn_(Philadelphus)._03-07-2021_(actm.).jpg"
+       caption="This is an image of a jasmine flower.">
