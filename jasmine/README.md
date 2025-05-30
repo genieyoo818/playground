@@ -13,9 +13,11 @@ Jasmine is a beautiful plant used in many different cultures around the world. T
 <param ve-image
        src="wc:Bloem_van_een_Boerenjasmijn_(Philadelphus)._03-07-2021_(actm.).jpg"
        caption="This is an image of a jasmine flower.">
+       
 Jasmine was...
 <param ve-image
        src="gh:genieyoo818/playground/main/jasmine/LarchesWinter.jpeg">
+       
 Jasmine's introduction to Europe
 <param ve-iframe
        src="https://archive.org/details/TheVoynichManuscript/page/n3/mode/1up"
