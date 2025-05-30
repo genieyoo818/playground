@@ -10,10 +10,12 @@
 
 ### Introduction
 
-I want to write about the [potato](Q16587531).[^1]
+I *want* to **write** about the [potato](Q16587531), so I depend on the [wikipedia entry on potatoes](https://en.wikipedia.org/wiki/Potato).[^1] Wikipedia begins with the following statement:
+>The potato is a starchy tuberous vegetable.[^2]
 
 
 
 
 
 [^1]: Wikipedia Article on potato.
+[^2]: Wikipedia Article on potato.
