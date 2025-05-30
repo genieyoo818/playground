@@ -13,6 +13,10 @@ Among the nearly two hundred species of jasmine, three varieties feature promine
 <param ve-image
        src="wc:Favourite_flowers_of_garden_and_greenhouse_(10593591126).jpg"
        caption="D. Bois, *Jasminum officinale, in Hortus Malabaricus* by Edward Step, 1897, Wikimedia Commons.">
+<param ve-video
+       src="_GywSd-_w6I"
+       start="90"
+       caption="Star Jasmine Growing Care and Tips from Graden Design.">
 
 
 
