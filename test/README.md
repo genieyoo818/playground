@@ -8,10 +8,14 @@ layout="vertical">
 
 ### Introduction
 One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree (*Larix laricina*) in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, [Wenabozho](Q833857), punished the Tamarack.
-<param ve-image
-	   src="wc:Larix_sibirica_with_golden_foliage.jpg"
-	   caption="Tamarack tree needles turn a golden yellow in autumn."
-	   fit="contain">
+<param ve-map prefer-geojson
+	   center="-0.78,116.99"
+	   zoom="4"
+	   title="map of indonesia">
+<param ve-map-layer geojson
+	   url="https://raw.githubusercontent.com/genieyoo818/playground/refs/heads/main/test/map.json"
+	   show-labels
+	   stroke-width="0">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown.
 <param ve-compare
